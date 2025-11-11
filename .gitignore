@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained models
+saved_models/
+logs/
+
+# Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Environment files (optional)
+.env
